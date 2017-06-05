@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "contour_new", "contour_new\contour_new.vcxproj", "{19A2B7D7-AE8A-4A2D-BF97-C6669951EE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A2B7D7-AE8A-4A2D-BF97-C6669951EE6E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{19A2B7D7-AE8A-4A2D-BF97-C6669951EE6E}.Debug|Win32.Build.0 = Debug|Win32
+		{19A2B7D7-AE8A-4A2D-BF97-C6669951EE6E}.Release|Win32.ActiveCfg = Release|Win32
+		{19A2B7D7-AE8A-4A2D-BF97-C6669951EE6E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
